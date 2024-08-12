@@ -1,7 +1,7 @@
-## Welcome to the Dog Search Demo! 
+## Welcome to the Bottle Search Demo! 
 
 ### Dataset 
-The dataset currently contains ten images of different dog breeds. You can also build on this and add your own images to the dataset!
+The dataset currently contains ten images of different Bottle brands. You can also build on this and add your own images to the dataset!
 
 ### To run this demo, follow the order below:
 1. Make sure you have Weaviate installed and set up. [Check out the documentation](https://weaviate.io/developers/weaviate/current/installation/index.html) for more information!
@@ -28,8 +28,3 @@ Run the Python Flask application and go to http://localhost:5000
 python flask-app/application.py 
 ```
 
-### Run the query 
-Run the query to see dogs that are under 60 pounds
-```bash
-python query.py
-```
